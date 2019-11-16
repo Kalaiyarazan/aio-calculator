@@ -1,4 +1,4 @@
-# aio-calculator
+# aio-calculator (v1.0.1)
 
 `aio-calculator` is a npm package which helps to calculate basic arithmetic calculations.
 
