@@ -1,0 +1,32 @@
+{
+  "name": "aio-calculator",
+  "version": "1.0.0",
+  "description": "All in one Calculator",
+  "main": "calculate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kalaiyarazan/aio-calculator.git"
+  },
+  "keywords": [
+    "calculator",
+    "all",
+    "in",
+    "one",
+    "all-in-one",
+    "aio",
+    "basic-calculator",
+    "aio-calculator",
+    "simple",
+    "simple-calculator"
+  ],
+  "author": "Kalaiyarazan",
+  "license": "MIT",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/Kalaiyarazan/aio-calculator/issues"
+  },
+  "homepage": "https://github.com/Kalaiyarazan/aio-calculator#readme"
+}
